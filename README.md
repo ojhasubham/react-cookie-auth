@@ -17,3 +17,5 @@ Bootstrapped with [Create React App](https://github.com/facebook/create-react-ap
 Design library [Ant Design](https://ant.design)
 
 State menagment [Redux](https://github.com/reduxjs/redux)
+
+cookie management [react-cookie](https://www.npmjs.com/package/react-cookie)
